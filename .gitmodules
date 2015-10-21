@@ -1,0 +1,15 @@
+[submodule "Carthage/Checkouts/Argo"]
+	path = Carthage/Checkouts/Argo
+	url = https://github.com/thoughtbot/Argo.git
+[submodule "Carthage/Checkouts/Result"]
+	path = Carthage/Checkouts/Result
+	url = https://github.com/antitypical/Result.git
+[submodule "Carthage/Checkouts/Ogra"]
+	path = Carthage/Checkouts/Ogra
+	url = https://github.com/edwardaux/Ogra.git
+[submodule "Carthage/Checkouts/Swish"]
+	path = Carthage/Checkouts/Swish
+	url = https://github.com/thoughtbot/Swish.git
+[submodule "Carthage/Checkouts/Disc"]
+	path = Carthage/Checkouts/Disc
+	url = https://github.com/the-grid/Disc.git
