@@ -87,7 +87,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, WKNavigationDelegate {
         }
         
         
-        // MARK: - Get a user's identities
+        // MARK: - Get the current user's identities
         
         api.getIdentities() { result in
             print("---------")
