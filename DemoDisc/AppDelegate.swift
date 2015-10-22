@@ -129,7 +129,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, WKNavigationDelegate {
         }
         
         
-        // MARK: - Get the current user's public GitHub token
+        // MARK: - Get the current user's private GitHub token
         
         api.getPrivateGitHubToken { result in
             print("---------")
